@@ -1,0 +1,18 @@
+PROGRAMAÇÃO EM PARALELO
+
+git branch nome (cria nova branch)
+git checkout nome (muda para branch)
+git add . (adiciona modificações)
+git commit .... (realiza o commit)
+
+git checkout master (muda para a master)
+git merge nome (merge da branch nome com o master)
+git push origin master (envia web)
+
+RESOLVENDO CONFLITO
+
+git pull origin master (Pegar modificações)
+merge manual
+git add
+git commit -m "merge operations"
+git push origin master
