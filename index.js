@@ -16,6 +16,7 @@ module.exports = class Calculator{
 	divide(a,b){
 		if(b != 0) return a/b;
 		else return(-1);
+	}
 
 	multiply(a,b){
 		return a*b;
